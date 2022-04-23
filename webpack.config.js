@@ -72,3 +72,5 @@ module.exports = config;
 
 
 // ? npm run webpack doesn't work, causes many compile errors
+// ? NEED HELP INSTALLING SW PRECACHE WEBPACK PLUGIN.
+// ? CURRENTLY NEED HELP INSTALLING APPLICATION AS A PWA
